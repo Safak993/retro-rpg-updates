@@ -1,6 +1,7 @@
 {
-  "version": "1.0.0",
-  "version_code": 1,
-  "release_notes": "İlk Android sürümü.",
-  "apk_url": "https://github.com/Safak993/retro-rpg-updates/releases/download/v1.0.0/RetroPg1.0.apk"
+  "version": "1.0.2",
+  "version_code": 3,
+  "release_notes": "Ayarlar menüsü, kayıt silme ve iyileştirmeler.",
+  "apk_url": "https://github.com/Safak993/retro-rpg-updates/releases/download/v1.0.2/RetroRPG-Android-1.0.2-aday.apk",
+  "sha256": "DA270FCA0B618F6A41B03236D1DA8E61A26A9A2F6A7E71D13279FCA6359F66A4"
 }
