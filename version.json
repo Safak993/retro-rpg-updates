@@ -1,9 +1,9 @@
 {
-  "version": "1.0.4",
-  "version_code": 5,
-  "release_notes": "Otomatik guncelleme kurulum hatasi duzeltildi.",
-  "apk_url": "https://github.com/Safak993/retro-rpg-updates/releases/download/v1.0.4/RetroRPG-Android-1.0.4-fix-aday.apk",
-  "sha256": "146e068b3e4485b2cfa675b5e4c86a09b9c0573876c7a906cc6bf9f0a7831197",
+  "version": "1.0.5",
+  "version_code": 6,
+  "release_notes": "Gorevler arayuzu iyilestirmesi ve OTA guncelleme testi.",
+  "apk_url": "https://github.com/Safak993/retro-rpg-updates/releases/download/v1.0.5/RetroRPG-Android-1.0.5.apk",
+  "sha256": "1d861c80770a39bcc0b9ce077ef5486230ac705ed843a681c4db7754f5f1f2d7",
   "pc_url": "https://github.com/Safak993/retro-rpg-updates/releases/download/v.1.0.2/RetroRPG-PC-1.0.2.zip",
   "pc_sha256": "85f8bd7c79dd9d94a37a921ebfb14c8752732ce0230f5c06bbf4a5e2dcf4556a",
   "pc_size": 57334867
